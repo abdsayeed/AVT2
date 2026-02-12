@@ -1,0 +1,20 @@
+<svg width="160" height="50" viewBox="0 0 160 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- A -->
+  <path d="M25 35L30 15H35L40 35H37L36 30H29L28 35H25ZM29.5 27H35.5L32.5 18L29.5 27Z" fill="#E4C590"/>
+  
+  <!-- V -->
+  <path d="M45 15H48L53 30L58 15H61L54.5 35H51.5L45 15Z" fill="#E4C590"/>
+  
+  <!-- T -->
+  <path d="M65 15H85V18H77V35H73V18H65V15Z" fill="#E4C590"/>
+  
+  <!-- 2 -->
+  <path d="M90 15H105V18C105 20 104 22 102 24L95 30V30H105V33H90V30C90 28 91 26 93 24L100 18V18H90V15Z" fill="#E4C590"/>
+  
+  <!-- Decorative line -->
+  <line x1="20" y1="42" x2="110" y2="42" stroke="#E4C590" stroke-width="0.5" opacity="0.4"/>
+  
+  <!-- Small decorative elements -->
+  <circle cx="15" cy="25" r="1.5" fill="#E4C590" opacity="0.5"/>
+  <circle cx="115" cy="25" r="1.5" fill="#E4C590" opacity="0.5"/>
+</svg>
